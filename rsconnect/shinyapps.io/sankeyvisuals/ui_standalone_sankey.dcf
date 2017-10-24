@@ -1,0 +1,10 @@
+name: ui_standalone_sankey
+title:
+username:
+account: sankeyvisuals
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223512
+bundleId: 1018832
+url: https://sankeyvisuals.shinyapps.io/ui_standalone_sankey/
+when: 1507626796.27853
